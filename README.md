@@ -1,7 +1,8 @@
 
 # npq
+<p align="center"><img src=".github/Logo Horizontal.png" alt="Mobile.BuildTools" height="100px"></p>
 
-🎖 marshall your npm/yarn package installs with high quality and class
+<p align="center">marshall your npm/yarn package installs with high quality and class</p>
 
 [![npm](https://img.shields.io/npm/v/npq.svg)](https://www.npmjs.com/package/npq)
 [![npm](https://img.shields.io/npm/l/npq.svg)](https://www.npmjs.com/package/npq)
